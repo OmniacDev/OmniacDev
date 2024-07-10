@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/OmniacDev/GithubStats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/OmniacDev/GithubStats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/OmniacDev/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/OmniacDev/GithubStats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!--
